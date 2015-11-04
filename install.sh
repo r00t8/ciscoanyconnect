@@ -1,3 +1,5 @@
+#!/bin/bash
+
 mkdir /usr/local/src/tmpciscoanyconnect
 cd /usr/local/src/tmpciscoanyconnect
 
